@@ -1,0 +1,47 @@
+.footer-background{
+    background-color: black;
+    padding-top: 2%;
+    min-height: 20vh;
+
+}
+.footer{
+    display: grid;
+    grid-template-columns: 50% 45% 15%;
+    margin: 0 auto;
+    width: 80%;
+    color: white;
+    text-align: left;
+}
+
+.footer__columns{
+    display: grid;
+    grid-gap: 2vh;
+    justify-self: start;
+}
+
+.footer__contacts{
+    justify-self: end;
+}
+
+.footer__icons{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    justify-content: start;
+    justify-self: start; 
+    align-items: center;
+    padding-bottom: 5vh;
+}
+
+.footer__icons-social{
+    width: 30px;
+    margin-right: 10px;
+}
+
+.footer__rules{
+    font-size: 1.3rem;
+}
+
+.footer__copy{
+    margin-top: 5vh;
+    font-size: 0.8rem;
+}

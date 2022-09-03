@@ -1,0 +1,26 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    font-size:2rem;
+    padding-top: 2vh;
+}
+.header-container{
+    width: 90%;
+}
+.logoImg {
+    margin-left: 10vw;
+}
+
+.nav__icons {
+    width: 2rem;
+    margin-right: 1rem; 
+}
+
+.nav{
+    display: flex;
+}
+.nav__language {
+    border:none;
+}
