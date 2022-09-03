@@ -8,3 +8,9 @@
 .main__h1{
     font-size: 3.125rem;
 }
+
+.main__artWorks{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
