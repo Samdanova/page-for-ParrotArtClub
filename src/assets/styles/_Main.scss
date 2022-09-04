@@ -1,45 +1,53 @@
-.main_container{
-    height: calc(100%-100px);
+.main_container {
+    // height: calc(100%-400px);
     width: 80%;
     margin: 0 auto;
     padding: 5% 0;
 }
 
-.main__h1{
+.artCard__trash {
+    border-radius: 50%;
+    padding: 30px;
+    background: black;
+}
+
+.main__header {
+    display: flex;
+    justify-content: space-between;
     font-size: 3.125rem;
 }
 
-.main__artWorks{
+.main__artWorks {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     margin-top: 5vh;
 }
 
-.main__category, .main__name{
+.main__category,
+.main__name {
     margin-top: 5vh;
     font-size: 1.2rem;
     font-weight: bold;
     border: none;
-    outline:none;
+    outline: none;
 }
-
 
 .pagination {
     display: flex;
     align-items: center;
     justify-content: right;
     margin: 1rem 0;
-  }
-  
-  .pagination .text {
+}
+
+.pagination .text {
     margin-left: 1rem;
     opacity: 0.6;
     font-size: 1rem;
-  }
-  
-  .page {
-    color:$defaultDarkColor;
+}
+
+.page {
+    color: $defaultDarkColor;
     height: 3rem;
     width: 3rem;
     display: flex;
@@ -49,17 +57,22 @@
     border: solid 0.1rem $border;
     background-color: transparent;
     cursor: pointer;
-  }
-  
-  .page.active,
-  .page:hover {
-    background-color:$defaultDarkColor;
-    color:white;
-  }
-  
-  .page.disabled {
+}
+
+.page.active,
+.page:hover {
+    background-color: $defaultDarkColor;
+    color: white;
+}
+
+.page.disabled {
     cursor: not-allowed;
     opacity: 0.5;
-  }
-  
-  
+}
+
+.artCard__trash {
+    width: 100px;
+    border-radius: 50%;
+    padding: 30px;
+    background: black;
+}
