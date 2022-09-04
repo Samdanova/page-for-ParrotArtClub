@@ -1,7 +1,11 @@
 .footer-background{
-    background-color: black;
+    background-color: $defaultDarkColor;
     padding-top: 2%;
     min-height: 20vh;
+
+    @media screen and (max-width:$mobile) {
+        display: none;
+    }
 
 }
 .footer{
@@ -38,7 +42,8 @@
 }
 
 .footer__rules{
-    font-size: 1.3rem;
+    margin-top: 2vh;
+    font-size: 0.8rem;
 }
 
 .footer__copy{

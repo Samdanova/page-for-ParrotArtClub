@@ -17,10 +17,10 @@ function Header() {
                     <img src={Logo} alt="logo" className="logoImg" />
                 </div>
                 <div className="nav">
-                    <img src={Home} alt="logo" className="nav__icons" />
-                    <img src={Chat} alt="logo" className="nav__icons" />
-                    <img src={Settings} alt="logo" className="nav__icons" />
-                    <img src={profile} alt="logo" className="nav__icons" />
+                    <img src={Home} alt="nav" className="nav__icons" />
+                    <img src={Chat} alt="nav" className="nav__icons" />
+                    <img src={Settings} alt="nav" className="nav__icons" />
+                    <img src={profile} alt="nav" className="nav__icons" />
                     <select name="" className="nav__language">
                         <option value="eng">ENG</option>
                         <option value="rus">RUS</option>

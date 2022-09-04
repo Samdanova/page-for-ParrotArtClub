@@ -5,7 +5,7 @@ const { Meta } = Card;
 
 const ArtCard = (props) => (
     <Card
-        style={{ width: 300 }}
+        style={{ width: 330 }}
         cover={
             <img
                 alt="example"
