@@ -92,7 +92,8 @@ function Main() {
                                 nameArtist={art.nameArtist}
                                 description={art.description}
                                 artWork={art.artWork}
-                                photo={art.photo}></ArtCard>
+                                photo={art.photo}>
+                            </ArtCard>
                         )
                 }
             </div>
