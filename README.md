@@ -1,2 +1,2 @@
-# Aдаптивный лэндинг на React по макету из Figma
+# Landing на React по макету из Figma
 
