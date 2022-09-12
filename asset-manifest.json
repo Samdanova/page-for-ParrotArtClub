@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/page-for-ParrotArtClub/static/css/main.4c2b6e53.css",
+    "main.js": "/page-for-ParrotArtClub/static/js/main.18dfc9ae.js",
+    "static/js/787.fe233384.chunk.js": "/page-for-ParrotArtClub/static/js/787.fe233384.chunk.js",
+    "static/media/Artwork2.png": "/page-for-ParrotArtClub/static/media/Artwork2.d6ac4398b8f1ca845860.png",
+    "static/media/Artwork1.png": "/page-for-ParrotArtClub/static/media/Artwork1.98bf797bf98106bd0fbf.png",
+    "static/media/Artwork4.png": "/page-for-ParrotArtClub/static/media/Artwork4.fbb060703f2503c31117.png",
+    "static/media/Artwork3.png": "/page-for-ParrotArtClub/static/media/Artwork3.2ef15256701a68385886.png",
+    "static/media/setting.png": "/page-for-ParrotArtClub/static/media/setting.ec3b77fffb2b351f9391.png",
+    "index.html": "/page-for-ParrotArtClub/index.html",
+    "main.4c2b6e53.css.map": "/page-for-ParrotArtClub/static/css/main.4c2b6e53.css.map",
+    "main.18dfc9ae.js.map": "/page-for-ParrotArtClub/static/js/main.18dfc9ae.js.map",
+    "787.fe233384.chunk.js.map": "/page-for-ParrotArtClub/static/js/787.fe233384.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c2b6e53.css",
+    "static/js/main.18dfc9ae.js"
+  ]
+}
